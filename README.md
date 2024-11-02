@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a>Javier Hdez. M</a> 👋🧐</h1>
 </div>
-[![Descripción del video](https://img.youtube.com/vi/brVRfmzvWCM/0.jpg)](https://www.youtube.com/watch?v=brVRfmzvWCM)
+<img src="https://github.com/JaviMH24/JaviMH24/raw/main/nueva.png" alt="Math Element">
 
 ## Sobre mi
 He desarrollado diversos articulos de divugación que puedes visualizar mediante los siguientes enlaces:
