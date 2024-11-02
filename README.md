@@ -1,8 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a>Javier Hdez. M</a> 👋🧐</h1>
 </div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/brVRfmzvWCM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Descripción del video](https://img.youtube.com/vi/brVRfmzvWCM/0.jpg)](https://www.youtube.com/watch?v=brVRfmzvWCM)
 
 ## Sobre mi
 He desarrollado diversos articulos de divugación que puedes visualizar mediante los siguientes enlaces:
