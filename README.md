@@ -7,7 +7,7 @@
 
 ## Sobre mi
 <b>
-📚📊He desarrollado diversos articulos de divugación que puedes visualizar mediante los siguientes enlaces:📚📊<br><br>
+📚📊He desarrollado diversos articulos de divulgación que puedes visualizar mediante los siguientes enlaces:📚📊<br><br>
 <ul>
   <li>La linea del tiempo como recurso didáctico: Una experiencia del curso de Historia de las Matemáticas. El siguiente enlace te llevará a la publicación del articulo (pag.253):</li>
   <li>https://www.esfm.ipn.mx/assets/files/esfm/docs/jornadas/revista-Jornadas-VII.pdf</li>
