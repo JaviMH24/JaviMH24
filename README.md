@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Javier Hdez. M</a> 👋🧐</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://github.com/JaviMH24/README.md/raw/main/ruta/a/tu/logoo.png" alt="Descripción de la imagen">
+
 
 ## Sobre mi
 He desarrollado diversos articulos de divugación que puedes visualizar mediante los siguientes enlaces:
