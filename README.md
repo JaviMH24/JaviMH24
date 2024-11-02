@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Javier Hdez. M</a> 👋🧐</h1>
 </div>
-<img src="https://github.com/JaviMH24/README.md/raw/main/ruta/a/tu/logoo.png" alt="Descripción de la imagen">
+<img src="https://github.com/JaviMH24/README.md/raw/main/ruta/a/tu/logooo.png" alt="Descripción de la imagen">
 
 
 ## Sobre mi
