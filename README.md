@@ -4,8 +4,18 @@
 <img src="https://github.com/JaviMH24/JaviMH24/raw/main/nueva.png" alt="Math Element" width="1000">
 
 ## Sobre mi
-He desarrollado diversos articulos de divugación que puedes visualizar mediante los siguientes enlaces:
--La linea del tiempo como recurso didáctico: Una 
+<b>
+📚📊He desarrollado diversos articulos de divugación que puedes visualizar mediante los siguientes enlaces:📚📊<br><br>
+<ul>
+  <li>La linea del tiempo como recurso didáctico: Una experiencia del curso de Historia de las Matemáticas. El siguiente enlace te llevará a la publicación del articulo (pag.253):</li>
+  <li>https://www.esfm.ipn.mx/assets/files/esfm/docs/jornadas/revista-Jornadas-VII.pdf</li>
+  <li>Link a la linea del tiempo de la Historia de las Matemáticas: https://view.genial.ly/658a60e378f80a001574d617/interactive-content-linea-del-tiempo-de-historia</li>
+  <li>Algunas Ecuaciones DIferenciales con Nombre y Apellido. El siguiente enlace te llevará a la publicación del articulo (pag.320):</li>
+   <li>https://drive.google.com/file/d/1WTFYap6ZeMQ2sV5SCPVoM0CAlSKdPa5l/view</li>
+</ul>
+</b>
+
+
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
