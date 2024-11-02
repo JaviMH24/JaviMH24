@@ -4,7 +4,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/brVRfmzvWCM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 ## Sobre mi
 He desarrollado diversos articulos de divugación que puedes visualizar mediante los siguientes enlaces:
 -La linea del tiempo como recurso didáctico: Una 
