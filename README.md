@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a>Javier Hdez. M</a> 👋</h1>
 </div>
-<img src="https://github.com/JaviMH24/JaviMH24/raw/main/nueva.png" alt="Math Element" width="1000" style="border-radius: 15px; overflow: hidden;">
+<img src="https://github.com/JaviMH24/JaviMH24/raw/main/Marca.png" alt="Math Element" width="1000" style="border-radius: 15px; overflow: hidden;">
 
 
 
